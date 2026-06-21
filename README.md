@@ -124,6 +124,7 @@ apps/
 ## 👤 Author
 
 **Naman Jain** — PixlForge Studio
+📧 [info@pixlforgestudio.in](mailto:info@pixlforgestudio.in)
 🔗 [github.com/Namanjain723](https://github.com/Namanjain723)
 
 ## 📄 License

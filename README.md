@@ -125,6 +125,7 @@ apps/
 
 **Naman Jain** â€” PixlForge Studio
 ðŸ“§ [info@pixlforgestudio.in](mailto:info@pixlforgestudio.in)
+📬 [namancric18@gmail.com](mailto:namancric18@gmail.com)
 ðŸ”— [github.com/Namanjain723](https://github.com/Namanjain723)
 
 ## ðŸ“„ License

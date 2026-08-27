@@ -2,7 +2,7 @@
 
 <img src="assets/hero.png" alt="PixlForge Aegis" width="100%">
 
-# 🛡ï¸ PixlForge Aegis
+# 🛡️ PixlForge Aegis
 
 ### Reputation Defense & Review Intelligence — *compliance-first*
 
@@ -73,7 +73,7 @@ A live Reputation Health Score, plus AI that labels every incoming review **genu
 
 ![Action Engine](assets/screenshots/02-action-engine.png)
 
-### âœï¸ Response Studio + Evidence Builder
+### ✍️ Response Studio + Evidence Builder
 On-brand AI replies for genuine reviews, and a submission-ready **Evidence PDF** (timeline, duplicate-text diff, policy mapping) for the attacks you flag.
 
 ![Response Studio](assets/screenshots/03-response-studio.png)
@@ -99,7 +99,7 @@ A compliance-first landing + live demo to sell the product.
 
 ---
 
-## ðŸ—ï¸ Architecture (hybrid, low-cost to host)
+## 🏗️ Architecture (hybrid, low-cost to host)
 
 ```
 apps/
